@@ -19,7 +19,6 @@
 
 Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi [John Gruber](https://en.wikipedia.org/wiki/John_Gruber). Markdown cho phép bạn viết bằng cách sử dụng định dạng văn bản đơn giản dễ đọc, dễ viết, sau đó chuyển đổi nó thành HTML có cấu trúc hợp lệ. Ngược lại các văn bản được viết bằng HTML cũng có thể được chuyển đổi sang Markdown.
 
-
 ### 1. Thẻ tiêu đề
 
 Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề. Các lớp tiêu đề h1, h2, h3 cho đến h6 có thể viết được bằng cách thêm số lượng ký tự # tương ứng vào đầu dòng. Một ký tự # tương đương với h1, 2 ký tự # tương đương với h2 ... Mức độ riêu đề giảm dần từ 1 đến 6.
@@ -76,9 +75,9 @@ Hai công cụ này khá dễ sử dụng, bạn chỉ cần chụp màn hình b
 
 ### 3. Ký tự in đậm, in nghiêng
 
-- Bạn sử dụng 1 ký tự * để in nghiêng, 2 ký tự ** để bôi đậm, và 3 ký tự *** để vừa in nghiêng vừa bôi đậm.
+Bạn sử dụng 1 ký tự * để in nghiêng, 2 ký tự ** để bôi đậm, và 3 ký tự *** để vừa in nghiêng vừa bôi đậm.
 
-- Để in đậm ký tự, bạn chỉ cần làm như sau:
+Để in đậm ký tự, bạn chỉ cần làm như sau:
 
 ```
 **từ cần in đậm**
@@ -88,7 +87,7 @@ kết quả:
 
 **từ cần in đậm**
 
-- Để in nghiêng ký tự, bạn chỉ cần làm như sau:
+Để in nghiêng ký tự, bạn chỉ cần làm như sau:
 
 ```
 *từ cần in nghiêng*
@@ -98,7 +97,7 @@ kết quả:
 
 *từ cần in nghiêng*
 
-- Để vừa in đậm, vừa in nghiêng, bạn chỉ cần làm như sau:
+Để vừa in đậm, vừa in nghiêng, bạn chỉ cần làm như sau:
 
 ```
 ***từ vừa in đậm, in nghiêng***
@@ -194,10 +193,25 @@ kết quả:
 - Hai
 - Ba
 
+Nếu bạn muốn dùng số để đánh dấu thì viết số và một dấu chấm .
+
+Ví dụ:
+
+```
+1. Một
+2. Hai
+3. Ba
+```
+
+kết quả:
+
+1. Một
+2. Hai
+3. Ba
 
 ### 7. Tạo bảng
 
-Bạn có thể sử dụng cú pháp sau để tạo bảng:
+Với Markdown, các cột được tách nhau bằng dấu ngăn thẳng đứng | và tiêu đề được tách với nội dung bằng dấu gạch ngang -.
 
 ```
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
@@ -215,7 +229,6 @@ Kết quả:
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
-<a name="meo"></a>
 ###*Mẹo:*
 
 - Sử dụng trang [Markdown Line Preview](https://markdownlivepreview.com/) paste vào đó đoạn markdown bạn viết và xem trước để chỉnh sửa cho phù hợp.
