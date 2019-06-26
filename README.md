@@ -109,24 +109,12 @@ Kết quả là: `đoạn cần bo`
 
 Để làm nổi bật một đoạn văn, chẳng hạn như một đoạn code hay file cấu hình bạn có thể sử dụng cú pháp như sau:
 
-    ```sh
-    auto eth0
-    iface eth0 inet static
-    ipaddress 10.10.10.10
-	netmask 255.255.255.0
-	gateway 10.10.10.1
-	dns-nameservers 8.8.8.8
+    ```đoạn code
     ```
 
 Kết quả như sau:
 
-```sh
-auto eth0
-iface eth0 inet static
-ipaddress 10.10.10.10
-netmask 255.255.255.0
-gateway 10.10.10.1
-dns-nameservers 8.8.8.8
+```đoạn code
 ```
 
 ### 5. Gạch đầu dòng
