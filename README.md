@@ -76,6 +76,8 @@ Hai công cụ này khá dễ sử dụng, bạn chỉ cần chụp màn hình b
 
 ### 3. Ký tự in đậm, in nghiêng
 
+- Bạn sử dụng 1 ký tự * để in nghiêng, 2 ký tự ** để bôi đậm, và 3 ký tự *** để vừa in nghiêng vừa bôi đậm.
+
 - Để in đậm ký tự, bạn chỉ cần làm như sau:
 
 ```
@@ -96,6 +98,15 @@ kết quả:
 
 *từ cần in nghiêng*
 
+- Để vừa in đậm, vừa in nghiêng, bạn chỉ cần làm như sau:
+
+```
+***từ vừa in đậm, in nghiêng***
+```
+
+kết quả:
+
+***từ vừa in đậm, in nghiêng***
 
 ### 4. Trích dẫn, bo chữ
 
