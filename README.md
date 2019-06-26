@@ -125,7 +125,8 @@ Kết quả là: `đoạn cần bo`
 
 Kết quả như sau:
 
-```đoạn code
+```
+đoạn code
 ```
 
 ### 5. Gạch đầu dòng
