@@ -229,7 +229,7 @@ Kết quả:
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
 
-###*Mẹo:*
+*Mẹo:*
 
 - Sử dụng trang [Markdown Line Preview](https://markdownlivepreview.com/) paste vào đó đoạn markdown bạn viết và xem trước để chỉnh sửa cho phù hợp.
 
