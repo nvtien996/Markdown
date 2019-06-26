@@ -18,12 +18,6 @@
 
 Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi [John Gruber](https://en.wikipedia.org/wiki/John_Gruber). Markdown cho phép bạn viết bằng cách sử dụng định dạng văn bản đơn giản dễ đọc, dễ viết, sau đó chuyển đổi nó thành HTML có cấu trúc hợp lệ. Ngược lại các văn bản được viết bằng HTML cũng có thể được chuyển đổi sang Markdown.
 
-Nhưng với tôi, tôi không dùng hết từng ấy thứ cho nên tôi chỉ nhớ một số cái tôi hay dùng, cách tôi dùng như sau:
-
-Tạo một file có tên bất kỳ với đuôi .md. Có thể dùng `notepad`, `notepad++`, `vi`, `nano`,... hay bất cứ thứ gì mà bạn muốn.
-
-Một số phương pháp tôi hay sử dụng để viết:
-
 <a name="thetieude"></a>
 ### 1. Thẻ tiêu đề
 
