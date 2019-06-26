@@ -21,6 +21,8 @@
 
 Markdown là ngôn ngữ đánh dấu văn bản được tạo ra bởi [John Gruber](https://en.wikipedia.org/wiki/John_Gruber). Markdown cho phép bạn viết bằng cách sử dụng định dạng văn bản đơn giản dễ đọc, dễ viết, sau đó chuyển đổi nó thành HTML có cấu trúc hợp lệ. Ngược lại các văn bản được viết bằng HTML cũng có thể được chuyển đổi sang Markdown.
 
+<a name="thetieude"></a>
+
 ### 1. Thẻ tiêu đề
 
 Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề. Các lớp tiêu đề h1, h2, h3 cho đến h6 có thể viết được bằng cách thêm số lượng ký tự # tương ứng vào đầu dòng. Một ký tự # tương đương với h1, 2 ký tự # tương đương với h2 ... Mức độ riêu đề giảm dần từ 1 đến 6.
@@ -44,6 +46,8 @@ Ví dụ:
 ```
 
 ###### 6.Tiêu đề cấp 6
+
+<a name="chenlinkchenanh"></a>
 
 ### 2. Chèn link, chèn ảnh
 
@@ -74,6 +78,8 @@ Kết quả là:
 Bạn có thể sử dụng công cụ [Lightshot](https://app.prntscr.com/en/index.html) để chụp ảnh màn hình và up hình đó lên trang [Imgur](https://imgur.com/) rồi lấy đường dẫn ảnh đưa vào Github
 
 Hai công cụ này khá dễ sử dụng, bạn chỉ cần chụp màn hình bằng Lightshot ấn Ctrl + C để copy và Ctrl + V để paste vào trình duyệt tại trang web [Imgur](https://imgur.com/)
+
+<a name="kytuindaminnghieng"></a>
 
 ### 3. Ký tự in đậm, in nghiêng
 
@@ -109,6 +115,8 @@ kết quả:
 
 ***từ vừa in đậm, in nghiêng***
 
+<a name="trichdanbochu"></a>
+
 ### 4. Trích dẫn, bo chữ
 
 Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:
@@ -129,6 +137,8 @@ Kết quả như sau:
 ```
 đoạn code
 ```
+
+<a name="gachdaudong"></a>
 
 ### 5. Gạch đầu dòng
 
@@ -160,6 +170,8 @@ Kết quả như sau:
   - Thụt với đầu dòng 2
   
   - Thụt với đầu dòng 2
+  
+<a name="danhsach"></a>
   
 ### 6. Danh sách
 
@@ -211,6 +223,8 @@ kết quả:
 2. Hai
 3. Ba
 
+<a name="taobang"></a>
+
 ### 7. Tạo bảng
 
 Với Markdown, các cột được tách nhau bằng dấu ngăn thẳng đứng | và tiêu đề được tách với nội dung bằng dấu gạch ngang -.
@@ -230,6 +244,8 @@ Kết quả:
 | Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
 | Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
 | Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
+
+<a name="meo"></a>
 
 *Mẹo:*
 
